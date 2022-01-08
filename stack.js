@@ -1,6 +1,4 @@
-console.clear();
 /** Stacks Algorithms */
-
 
 
 /** A Stack Implementation */
