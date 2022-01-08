@@ -7,13 +7,17 @@ Arrays, Lists, Stacks, Queues,Linked lists, Dictionaries, Hashing, Sets, Binary 
 - A Stack Implementation
 
 `code()`
-function stack(){
-this.dataStore = [];
-this.top = 0;
-this.push = push;
-this.pop = pop;
-this.peek = peek;
-this.toString = toString;
-this.length = length;
-this.clear = clear;
+var specificLanguage_code =
+{
+"data": {
+"lookedUpPlatform": 1,
+"query": "Kasabian+Test+Transmission",
+"lookedUpItem": {
+"name": "Test Transmission",
+"artist": "Kasabian",
+"album": "Kasabian",
+"picture": null,
+"link": "http://open.spotify.com/track/5jhJur5n4fasblLSCOcrTp"
+}
+}
 }
