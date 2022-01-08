@@ -4,12 +4,12 @@ Arrays, Lists, Stacks, Queues,Linked lists, Dictionaries, Hashing, Sets, Binary 
 
 # \*\* Stacks Algorithms
 
-[ ] A Stack Implementation
-[ ] Push function implements
-[ ] Pop function implements
-[ ] Remeve data before end array element or peek function implements
-[ ] ToString function and output array element
-[ ] Clear function implements
-[ ] Multiple Base Conversions
-[ ] Demonstrating Recursion
-[ ] Stack list funciton create factorial function
+- [x] A Stack Implementation
+- [x] Push function implements
+- [x] Pop function implements
+- [x] Remeve data before end array element or peek function implements
+- [x] ToString function and output array element
+- [x] Clear function implements
+- [x] Multiple Base Conversions
+- [x] Demonstrating Recursion
+- [x] Stack list funciton create factorial function
