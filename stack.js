@@ -1,7 +1,7 @@
 /** Stacks Algorithms */
 
 
-/** A Stack Implementation */
+/** A Stack Implementation function*/
 
 function stack(){
     this.dataStore = [];
