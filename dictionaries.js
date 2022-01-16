@@ -86,7 +86,3 @@ d.showAll()
 // d.clear()
 // d.showAll()
 
-
-
-  
-const inputString = 'the brown fox jumped over the blue fox,'
